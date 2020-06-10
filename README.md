@@ -18,7 +18,6 @@ This is a collection of data science project notebooks I created to learn and ex
 
 ## Data exploration and analysis
 
-
 ## Recommendation systems
 
 
