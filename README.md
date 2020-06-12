@@ -2,7 +2,7 @@
 
 This is a collection of data science project notebooks I created to learn and explore machine learning algorithms.
 
-## End-to-end projects
+## 1. End-to-end projects
 
 ### Gameplay Data Analysis
 
@@ -11,6 +11,8 @@ Oftentimes, an end-to-end project is both a fun and challenging experience. I de
 All of the above, and hopefull more, will be explored and answered in the link to the project's github [repo](https://github.com/gimseng/game_stats). The project covers data acquisition (through web-scaping), data exploration and cleaning, data transformation, machine learning model selection and evaluation, and finally building visualization for business analytics and insights.
 
 
+
+### 2. Physicist 
 
 <!---
 [Github](https://github.com/.../.ipynb) 
