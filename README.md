@@ -23,7 +23,7 @@ My initial idea is for some games (like action adventure), as long as the qualit
 
 4. Lastly, is there a meaningful way to cluster players based on playtime and perhaps rating? Could this provide a predictive machine learning model? Such a model could then be used for developers when they want to compare a certain playtime profile with another to decide how to proceed with their game development. If we want, we could provide a supervised machine learning model where the predictor / label is the rating of a game, while playtime profile and cluster label can be used as features to predict user rating. Needless to say, clustering gamers will be useful for ads-targetting as well as sale strategy.
 
-All of the above, and hopefull more, will be explored and answered in the link to the github codes: [Github](https://github.com/gimseng/game_stats)
+All of the above, and hopefull more, will be explored and answered in the link to the github codes: [game_stats](https://github.com/gimseng/game_stats)
 
 
 
