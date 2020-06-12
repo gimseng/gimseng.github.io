@@ -6,7 +6,7 @@ This is a collection of data science project notebooks I created to learn and ex
 
 ### Gameplay Data Analysis
 
-Oftentimes, an end-to-end project is both a fun and challenging experience. I decided to pick something that I have enjoyed and thought about for quick a time. I enjoy playing video games in my free time and I often use the website [howlongtobeat.com ](howlongtobeat.com) to track my backlogs, I decided to build a data science project using gameplay data.
+Oftentimes, an end-to-end project is both a fun and challenging experience. I decided to pick something that I have enjoyed with questions I sometimes wondered. I enjoy playing video games in my free time and I often use the website [howlongtobeat.com ](howlongtobeat.com) to track my backlogs, I decided to build a data science project using gameplay data.
 
 The motivation comes from trying to understand gamer's playing behavior. Since most (if not all) such data are probably proprietary and private, it is fortunate to have websites that allow users to log playtime and provide ratings. There are probably other websites (such as [Steam](https://steamcommunity.com) and others) which provide better or more data, however, since I am already familiar with howlongtobeat.com (HLTB), with their data being publicly available for web scraping (see their robots.txt), it is both a somewhat challenging but feasible task to do.
 
