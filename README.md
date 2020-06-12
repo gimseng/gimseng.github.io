@@ -5,6 +5,8 @@ This is a collection of data science project notebooks I created to learn and ex
 ## End-to-end projects
 
 
+<!---
+
 ## Classification problems
 
 ## Regression problems
@@ -19,6 +21,6 @@ This is a collection of data science project notebooks I created to learn and ex
 ## Data exploration and analysis
 
 ## Recommendation systems
-
+--->
 
 
