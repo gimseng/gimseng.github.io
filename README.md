@@ -2,9 +2,9 @@
 
 This is a collection of data science project notebooks I created to learn and explore machine learning algorithms.
 
-## 1. End-to-end projects
+## End-to-end projects
 
-### Gameplay Data Analysis
+### 1. Gameplay Data Analysis
 
 Oftentimes, an end-to-end project is both a fun and challenging experience. I decided to pick something that I have enjoyed with questions I sometimes wondered. I enjoy playing video games in my free time and I often use the website [howlongtobeat.com ](https://www.howlongtobeat.com) to track my backlogs, I decided to build a data science project using gameplay data. The motivation comes from trying to understand gamer's playing behavior and leverage such data to provide guidance for game developer and publisher. Building a predictiv model based on playtime, ratings and sales is a useful tool for gaming industry to balance between profit and establishing satisfactory customer base.
 
@@ -12,7 +12,7 @@ All of the above, and hopefull more, will be explored and answered in the link t
 
 
 
-### 2. Physicist 
+### 2. Paper-connection Among Physicists
 
 <!---
 [Github](https://github.com/.../.ipynb) 
