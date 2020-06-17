@@ -1,6 +1,7 @@
 # Data science portfolio by Gim Seng Ng
 
 This is a collection of data science project notebooks I created to learn and explore machine learning algorithms.
+Please check out other projects on [my github](https://github.com/gimseng)
 
 ## End-to-end projects
 
