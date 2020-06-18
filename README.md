@@ -17,7 +17,7 @@ All of the above, and hopefull more, will be explored and answered in the link t
 
 This project stems from a desire to learn graph database to build powerful network visualization. On the other hand, since I have worked in high energy physics for more than 5 years after my PhD, this is a chance to explore connectivitiy among high energy physicists. The two primary ways are through exploring collaborations and citations. The data are freely available on arXiv, though we actually can get very far by using the API and the data dump of [inspirehep.net](https://old.inspirehep.net/info/hep/api). The data I am using will be publication data up to early 2020. 
 
-Interesting questions such as: which physicists are highly collaborative and productive? Do higher collaborations yield better citations? There is also a potential to explore what influences opportunities of getting a permanet faculty jobs, due to the job title and affliation data provided by ([inspirehep.net](https://inspirehep.net/). 
+Interesting questions such as: which physicists are highly collaborative and productive? Do higher collaborations yield better citations? There is also a potential to explore what influences opportunities of getting a permanet faculty jobs, due to the job title and affliation data provided by [inspirehep.net](https://inspirehep.net/). 
 
 The project is still at the beginning of its conception and data collection/cleaning phase. Stay tuned at the github [repo](https://github.com/gimseng/hepnetwork).
 
