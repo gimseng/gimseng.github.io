@@ -19,7 +19,7 @@ This project stems from a desire to learn graph database to build powerful netwo
 
 Interesting questions such as: Which physicists are highly collaborative and productive? Do higher collaborations yield better citations? There is also a potential to explore what influences opportunities of getting a permanet faculty jobs, due to the job title and affliation data provided by [inspirehep.net](https://inspirehep.net/). 
 
-The project is still at the beginning of its conception and data collection/cleaning phase. Stay tuned at the github [repo](https://github.com/gimseng/hepnetwork).
+The project is still at the beginning of its conception and data collection/cleaning phase. Stay tuned at the github [repo](https://github.com/gimseng/hep_network).
 
 
 
